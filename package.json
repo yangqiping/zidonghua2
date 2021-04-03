@@ -1,0 +1,17 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "SPA 富应用开发课程资料。",
+  "scripts": {
+    "test": "echo \"nothing to test!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangqiping/zidonghua2.git"
+  },
+  "author": "yangqiping",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
